@@ -1,0 +1,8 @@
+Credentials cache: API:A6DCBCAB-9B9D-47D0-A75E-5CF34E1DF6D6
+        Principal: miclaude@42.FR
+
+  Issued                Expires               Principal
+Aug 28 17:53:33 2017  Sep  4 17:53:33 2017  krbtgt/42.FR@42.FR
+Aug 28 17:53:35 2017  Sep  4 17:53:33 2017  ldap/ldap-proxy.42.fr@42.FR
+Aug 28 17:53:35 2017  Sep  4 17:53:33 2017  HTTP/student-storage-2.42.fr@42.FR
+Aug 28 17:59:54 2017  Sep  4 17:53:33 2017  host/vgs-fn1.42.fr@42.FR
